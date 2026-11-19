@@ -35,3 +35,7 @@ Caso não seja informado não será exibido o título na página.
 #### Exemplo:
 ```
 [list_events url=http://museus.cultura.gov.br title="Evento dos Museus"]
+
+## Licencia
+
+Software libre bajo la **Licencia Pública General GNU, versión 3 o posterior** (GPL-3.0-or-later). Ver [LICENSE](LICENSE). Las bibliotecas y datos de terceros incluidos conservan su propia licencia.
